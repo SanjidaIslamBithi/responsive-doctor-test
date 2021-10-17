@@ -26,7 +26,7 @@ const Services = () => {
       </div>
       <h1 className="Prevent-title">How to Prevent Yourself</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean <br />
+        Lorem ipsum dolor sit amet k kconsectetuer adipiscing elit. Aenean <br />
         ligula eget dolor. Aenean massa.
       </p>
 
